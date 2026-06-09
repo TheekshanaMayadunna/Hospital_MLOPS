@@ -1,0 +1,77 @@
+# =========================
+# CORE DATA SCIENCE
+# =========================
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+xgboost
+catboost
+
+# =========================
+# VISUALIZATION
+# =========================
+matplotlib
+seaborn
+plotly
+
+# =========================
+# NOTEBOOK
+# =========================
+jupyter
+ipykernel
+
+# =========================
+# MLOPS / TRACKING
+# =========================
+mlflow
+dvc
+dvc-s3
+
+# =========================
+# MODEL UTILITIES
+# =========================
+joblib
+dill
+PyYAML
+
+# =========================
+# API (FASTAPI)
+# =========================
+fastapi
+uvicorn
+pydantic
+python-multipart
+jinja2
+
+# =========================
+# CLOUD (AWS)
+# =========================
+boto3
+mypy-boto3-s3
+botocore
+
+# =========================
+# DATABASE
+# =========================
+pymongo
+
+# =========================
+# UI / TESTING
+# =========================
+gradio
+requests
+pytest
+httpx
+
+# =========================
+# ENVIRONMENT
+# =========================
+python-dotenv
+from-root
+
+# =========================
+# INSTALL PROJECT AS PACKAGE
+# =========================
+-e .
